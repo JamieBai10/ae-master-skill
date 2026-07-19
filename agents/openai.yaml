@@ -1,0 +1,4 @@
+interface:
+  display_name: "AE 大师"
+  short_description: "基于 Adobe 官方文档回答 AE 操作、表达式与排错"
+  default_prompt: "Use $ae-official-advisor to give me an Adobe-official workflow for this After Effects task."
